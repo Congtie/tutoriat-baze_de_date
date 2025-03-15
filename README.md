@@ -40,7 +40,3 @@ Obiectivul acestui tutoriat este de a oferi participanților o bază solidă în
 ## Contribuții
 
 Acest tutoriat este conceput pentru a fi un ghid de bază, deschis sugestiilor și îmbunătățirilor. Dacă aveți propuneri sau observații, vă rugăm să le transmiteți echipei de organizare a tutoriatului.
-
-## Licență
-
-Acest proiect este distribuit sub [Licența MIT](LICENSE).
