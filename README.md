@@ -6,8 +6,9 @@ Acest document oferă o prezentare generală a subiectelor ce vor fi abordate î
 ### Conținutul Tutoriatului
 
 #### 1. Instalare & Configurare
-- **Instalarea Oracle Database:** Prezentarea versiunilor disponibile (ex. Oracle Database Express Edition) și pașii de instalare.
-- **Configurarea Mediului:** Configurarea SQL*Plus și SQL Developer, crearea utilizatorilor și acordarea privilegiilor necesare.
+> **NOU!!** Pentru instalarea Oracle Database, urmați pașii din fișierul `Instalare_Oracle19c_Windows.pdf`
+- **Instalarea Oracle Database:** Arhiva kit-ului de instalare poate fi descărcată de [aici](https://www.oracle.com/database/technologies/oracle19c-windows-downloads.html).
+- **Configurarea Mediului:** Utilitarul SQL Developer poate fi descărcat de [aici](https://www.oracle.com/database/sqldeveloper/technologies/download/).
 
 #### 2. Definiții de Bază (DDL)
 - **Crearea Tabelelor:** Sintaxa pentru definirea tabelelor și specificarea tipurilor de date (ex. NUMBER, VARCHAR2, DATE).
