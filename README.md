@@ -1,12 +1,17 @@
 ## Tutoriat Baze de Date SQL Oracle
 
+>🔥NOU🔥: Am postat materialele despre algebra relationala. 
+For further reading: 
+> - despre division: https://www.inf.usi.ch/faculty/soule/teaching/2016-fall/db/division.pdf 
+
 Acest document oferă o prezentare generală a subiectelor ce vor fi abordate în cadrul tutoriatului de baze de date folosind SQL Oracle. Scopul este de a prezenta conceptele fundamentale și de a oferi un cadru teoretic pentru lucrul cu Oracle Database, fără a intra în detalii despre programarea în PL/SQL.
+
 
 
 ### Conținutul Tutoriatului
 
 #### 1. Instalare & Configurare
-> **NOU!!** Pentru instalarea Oracle Database, urmați pașii din fișierul `Instalare_Oracle19c_Windows.pdf`
+Pentru instalarea Oracle Database, urmați pașii din fișierul `Instalare_Oracle19c_Windows.pdf`
 - **Instalarea Oracle Database:** Arhiva kit-ului de instalare poate fi descărcată de [aici](https://www.oracle.com/database/technologies/oracle19c-windows-downloads.html).
 - **Configurarea Mediului:** Utilitarul SQL Developer poate fi descărcat de [aici](https://www.oracle.com/database/sqldeveloper/technologies/download/).
 
