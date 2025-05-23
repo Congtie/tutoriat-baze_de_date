@@ -1,6 +1,6 @@
 ## Tutoriat Baze de Date SQL Oracle
 
->🔥NOU🔥: Am postat materialele despre algebra relationala. 
+>🔥NOU🔥: Am postat materialele despre vizualizari si exemplu de implementare pentru DIVISION. 
 For further reading: 
 > - despre division: https://www.inf.usi.ch/faculty/soule/teaching/2016-fall/db/division.pdf 
 
